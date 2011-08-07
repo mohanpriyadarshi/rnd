@@ -1,0 +1,2 @@
+$two_legged_app = new YahooApplication(API_KEY,SHARED_SECRET);
+
