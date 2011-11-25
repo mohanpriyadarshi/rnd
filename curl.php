@@ -1,4 +1,5 @@
 <?php
+dsd
 #Input like stdin
 $han=fopen("php://stdin",r) ;
 $urlr=fgets($han) ;
